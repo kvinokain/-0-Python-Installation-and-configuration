@@ -1,5 +1,7 @@
 # -0-Python-Installation-and-configuration
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=37C736&width=435&lines=%23+Let's+begin!;python+--version;%23+Python+%F0%9F%90%8D;apt+show+python3)](https://git.io/typing-svg)
+
 ## Установка и настройка Python
 
 **Python** — это высокоуровневый язык программирования, который используется для разработки веб-приложений, автоматизации задач, анализа данных, машинного обучения и многого другого. Он известен своей простой и понятной синтаксической структурой, что делает его идеальным как для начинающих программистов, так и для профессионалов.
@@ -16,19 +18,19 @@ Python можно скачать с официального сайта: [python
 ## 2. Как установить
 **В примере показано, как установить Python на OS Windows x64** <br>
 1. Зайдите на официальный сайт Python. <br>
-   s1
+   <img src="https://github.com/TeachKait20/NoneCode/blob/main/screenshots%20download+config%20Python/s1.jpg?raw=true">
  
 2. Перейди на страницу загрузок и выбери подходящую версию для твоей операционной системы. Вы можете увидеть множество версий Python, такие как: 3.10, 3.11, 3.12 и последующие включают множество улучшений и новых возможностей. Скачайте установочный файл и запусти его.<br>
-   s2
+   <img src="https://github.com/TeachKait20/NoneCode/blob/main/screenshots%20download+config%20Python/s2.jpg?raw=true">
    
 3. Во время установки убедись, что выбрана опция "Add Python to PATH", чтобы в дальнейшем можно было использовать Python из командной строки.  <br>
-   s3
+   <img src="https://github.com/TeachKait20/NoneCode/blob/main/screenshots%20download+config%20Python/s3.jpg?raw=true">
 
 4. Дождитесь конца установки и закройте окно. <br>
-   s4
+   <img src="https://github.com/TeachKait20/NoneCode/blob/main/screenshots%20download+config%20Python/s4.jpg?raw=true">
 
 Если всё проло успешно, то теперь у вас есть интерпретатор Python (Интерпретатор — это программа, которая выполняет команды, написанные на каком-то языке программирования.) и IDLE — это интегрированная среда разработки и обучения на языке Python.) <br>
-   s5
+   <img src="https://github.com/TeachKait20/NoneCode/blob/main/screenshots%20download+config%20Python/s5.jpg?raw=true">
 
    
 ## 3. О IDLE
@@ -62,9 +64,8 @@ IDLE (Integrated Development and Learning Environment) — это простая
 6. **Использование редактора кода**:
    - IDLE поддерживает подсветку синтаксиса, автодополнение и простую отладку, что делает его удобным для быстрого тестирования и разработки.
 
-**Весь процесс IDLE**
-
-s6
+**Весь процесс IDLE** <br>
+<img src="https://github.com/TeachKait20/NoneCode/blob/main/screenshots%20download+config%20Python/s6.gif?raw=true">
 
 ## IDE
 ## 1. Что такое IDE?
@@ -123,18 +124,19 @@ s6
 На главной странице нажмите "Скачать". <br>
 **Важно!** Pycharm бесплатная не для всех языков программирования, поэтому необходимо скачать не "PyCharm Professional", а "PyCharm Community Edition". Она расположена немного ниже. <br>
 
-s7, s8
+<img src="https://github.com/TeachKait20/NoneCode/blob/main/screenshots%20download+config%20Python/s7.jpg?raw=true"> <br>
+<img src="https://github.com/TeachKait20/NoneCode/blob/main/screenshots%20download+config%20Python/s8.jpg?raw=true">
 
 ## 5. Установка PyCharm
 
 1. **После того, как файл скачался, запустите его.**
    Дождитесь, пока установочный файл подготовится к запуску. <br>
-   s9 
+   <img src="https://github.com/TeachKait20/NoneCode/blob/main/screenshots%20download+config%20Python/s9.jpg?raw=true"> 
   
 
 2. **Выберите, куда установить PyCharm.**  
    Рекомендуется оставить путь по умолчанию, но при желании можно выбрать другую папку. <br>
-   s10 
+   <img src="https://github.com/TeachKait20/NoneCode/blob/main/screenshots%20download+config%20Python/s10.jpg?raw=true"> 
 
 3. **Проставьте все галочки на установке компонентов.**  
     
@@ -142,11 +144,11 @@ s7, s8
    - Создать ярлык на рабочем столе.
    - Ассоциировать файлы `.py` с PyCharm.
    - Добавить PyCharm в системный PATH для использования в командной строке. <br>
-   s11 
+   <img src="https://github.com/TeachKait20/NoneCode/blob/main/screenshots%20download+config%20Python/s11.jpg?raw=true"> 
 
 4. **Завершите установку.**  
    Нажмите "Install" и дождитесь окончания процесса. После установки можно перезагрузите ПК "Reboot now" и запустить PyCharm. <br>
-   s12  
+   <img src="https://github.com/TeachKait20/NoneCode/blob/main/screenshots%20download+config%20Python/s12.jpg?raw=true">  
 
 
 ## Настройка Pycharm
@@ -187,7 +189,7 @@ s7, s8
    - Нажмите правой кнопкой мыши на файл и выберите **Run 'имя_файла'** или используйте кнопку запуска (`Shift + F10`).
    - Результаты выполнения отобразятся в нижней части экрана.
 
-s13
+<img src="https://github.com/TeachKait20/NoneCode/blob/main/screenshots%20download+config%20Python/s13.jpg?raw=true">
 
 Это основные моменты по использованию среды разработки, не включающие отладку кода, перенос файлов, модулей и т.д. <br>
 По умолчанию, все ваши проекты будут храниться в `C:\Users\path\PycharmProjects`
