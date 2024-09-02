@@ -189,7 +189,7 @@ IDLE (Integrated Development and Learning Environment) — это простая
    - Нажмите правой кнопкой мыши на файл и выберите **Run 'имя_файла'** или используйте кнопку запуска (`Shift + F10`).
    - Результаты выполнения отобразятся в нижней части экрана.
 
-<img src="https://github.com/TeachKait20/NoneCode/blob/main/screenshots%20download+config%20Python/s13.jpg?raw=true">
+<img src="https://github.com/TeachKait20/NoneCode/blob/main/screenshots%20download+config%20Python/s13.gif?raw=true">
 
 Это основные моменты по использованию среды разработки, не включающие отладку кода, перенос файлов, модулей и т.д. <br>
 По умолчанию, все ваши проекты будут храниться в `C:\Users\path\PycharmProjects`
